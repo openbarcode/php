@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="40 40 160 160" role="img" aria-labelledby="title">
+<title id="title">Open Barcode symbol</title>
+<defs><clipPath id="barcode-o"><path fill-rule="evenodd" clip-rule="evenodd" d="M 200,120 A 80,80 0 1 1 40,120 A 80,80 0 1 1 200,120 Z M 164,120 A 44,44 0 1 0 76,120 A 44,44 0 1 0 164,120 Z"/></clipPath></defs>
+<g id="symbol" fill="#6554E8" clip-path="url(#barcode-o)"><rect x="40" y="40" width="24" height="160"/><rect x="70" y="40" width="13" height="160"/><rect x="89" y="40" width="18" height="160"/><rect x="113" y="40" width="14" height="160"/><rect x="133" y="40" width="18" height="160"/><rect x="157" y="40" width="13" height="160"/><rect x="176" y="40" width="24" height="160"/></g>
+</svg>
