@@ -75,7 +75,7 @@ This repository was split from the original multi-language project at
 https://github.com/floms/Open-Barcode. The commit history was preserved
 with git-filter-repo; commit hashes differ from the original.
 
-Copyright 2013 Floms, LLC (Yoel Nunez)
+Copyright 2013 Floms, Inc. (Yoel Nunez)
 
 Copyright 2026 Floms, Inc.
 
